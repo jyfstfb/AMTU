@@ -1,4 +1,4 @@
-# A standardized multi-view OCT and OCTA benchmark for retinal disease classification
+# Available View Set-guided multi-view retinal disease classification from OCT and OCTA
 ## Code Availability
 
 To support anonymous review, the code and data are provided as an encrypted archive in this repository:
